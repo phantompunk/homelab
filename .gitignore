@@ -1,0 +1,15 @@
+# Secrets
+secrets/*.env
+.env
+.env.*
+
+# Data
+**/data/
+/opt/data/
+
+# Backups
+backups/
+
+# OS / Editor
+.DS_Store
+
