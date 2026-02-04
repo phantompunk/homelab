@@ -6,4 +6,4 @@ services:
     ports:
       - 3001:3001
     volumes:
-      - ./uptime-kuma-data:/app/data
+      - /opt/data/uptime-kuma:/app/data
