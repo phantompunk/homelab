@@ -7,4 +7,3 @@ services:
       - 3001:3001
     volumes:
       - /opt/data/uptime-kuma:/app/data
-    restart: unless-stopped
